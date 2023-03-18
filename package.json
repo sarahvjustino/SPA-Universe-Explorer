@@ -1,0 +1,24 @@
+{
+  "name": "spa-universe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahvjustino/SPA-Universe-Explorer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahvjustino/SPA-Universe-Explorer/issues"
+  },
+  "homepage": "https://github.com/sarahvjustino/SPA-Universe-Explorer#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "live-server": "^1.2.2"
+  }
+}
